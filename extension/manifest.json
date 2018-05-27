@@ -20,6 +20,8 @@
                 "https://*.contest2.yandex.com/*",
                 "http://codeforces.ru/*",
                 "http://codeforces.com/*",
+                "https://codeforces.ru/*",
+                "https://codeforces.com/*",
                 "https://hackerrank.com/*",
                 "https://www.hackerrank.com/*",
                 "https://www.facebook.com/hackercup/*",
